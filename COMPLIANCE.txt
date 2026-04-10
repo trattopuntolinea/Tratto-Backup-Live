@@ -1,0 +1,51 @@
+===============================================================================
+               CERTIFICATO DI CONFORMITÀ E STANDARD TECNICI
+                        "TRATTO BACKUP LIVE"
+===============================================================================
+
+1. IDENTIFICAZIONE DEL SOFTWARE E TITOLARITÀ
+-------------------------------------------
+Nome Algoritmo:   Tratto Backup Live
+Autore/Titolare:  Francesco Piroddi
+Codice Fiscale:   PRDFNC94L03E441D
+Copyright:        © 2026 Francesco Piroddi. Tutti i diritti riservati.
+Licenza:          GNU General Public License v3.0 (GPLv3)
+
+2. CONFORMITÀ NORMATIVA E LEGISLATIVA
+--------------------------------------
+L'algoritmo opera nel pieno rispetto dei seguenti quadri legali:
+- REPUBBLICA ITALIANA: Legge 633/1941 (Diritto d'Autore) e D.Lgs 196/2003.
+- UNIONE EUROPEA: Regolamento UE 2016/679 (GDPR). Implementazione del principio 
+  di "Privacy by Design" mediante esecuzione locale e sicura dei backup.
+- GLOBALE/INTERNAZIONALE: Trattati WIPO (OMPI) sulla Proprietà Intellettuale e 
+  standard internazionali di protezione del software.
+
+3. ADERENZA AGLI STANDARD TECNICI
+----------------------------------
+Il protocollo di backup segue rigorosamente gli standard di settore:
+- ISO/IEC 27001: Standard per la gestione della sicurezza delle informazioni, 
+  garantendo Integrità e Disponibilità tramite la rotazione ciclica x3.
+- STANDARD ITALIA/AgID: Rispetto delle misure minime di sicurezza e delle 
+  linee guida per la conservazione dei dati digitali.
+- STANDARD UNIONE EUROPEA: Framework ENISA per la gestione dei rischi cyber.
+- STANDARD GLOBALI: Utilizzo di algoritmi di compressione .zip standardizzati 
+  e integrazione sicura con Windows Task Scheduler.
+
+4. LOGICA DI COMPLIANCE OPERATIVA
+------------------------------------
+- AUTOMAZIONE: Pianificazione certificata tramite Task Scheduler (Log-on/Daily).
+- RITENZIONE: Algoritmo di rotazione FIFO (First-In-First-Out). Rimozione 
+  automatica dell'archivio più obsoleto per mantenere il limite di 3 copie.
+- TRACCIABILITÀ: Naming convention basata su timestamp ISO (Data-Ora) per 
+  garantire l'ordinamento cronologico e l'accuratezza del ripristino.
+
+5. CLAUSOLA DI PROPRIETÀ INTELLETTUALE
+---------------------------------------
+Ogni componente dell'algoritmo PowerShell costituisce Proprietà Intellettuale 
+esclusiva di Francesco Piroddi. Ogni violazione o distribuzione non conforme 
+alla licenza GPLv3 sarà perseguita a norma di legge secondo le giurisdizioni 
+nazionali e internazionali vigenti.
+
+===============================================================================
+DOCUMENTO VALIDATO IN DATA: 10 APRILE 2026
+===============================================================================

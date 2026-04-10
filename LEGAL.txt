@@ -1,0 +1,61 @@
+===============================================================================
+                DOCUMENTO DI CONFORMITÀ LEGALE E TUTELE
+                        "TRATTO BACKUP LIVE"
+===============================================================================
+
+1. IDENTIFICAZIONE DELL'AUTORE E DEL TITOLARE
+---------------------------------------------
+Autore:           Francesco Piroddi
+Titolare Unico:   Francesco Piroddi
+Codice Fiscale:   PRDFNC94L03E441D
+Copyright:        © 2026 Francesco Piroddi. Tutti i diritti riservati.
+
+2. DICHIARAZIONE DI PROPRIETÀ INTELLETTUALE
+-------------------------------------------
+L'algoritmo di scripting "Tratto Backup Live", comprensivo della logica di 
+automazione per Windows Task Scheduler, del protocollo di compressione .zip 
+e del sistema di rotazione cronologica dei dati (logica FIFO), è protetto 
+come opera dell'ingegno ai sensi della:
+- Legge 22 aprile 1941, n. 633 (Repubblica Italiana) sul Diritto d'Autore.
+- Direttiva 2009/24/CE (Unione Europea) sulla tutela dei programmi per elaboratore.
+- Convenzione di Berna e Trattati WIPO/OMPI (Internazionali).
+
+La titolarità esclusiva di ogni componente software è riconducibile 
+univocamente a Francesco Piroddi.
+
+3. CONFORMITÀ NORMATIVA E LEGISLATURA
+-------------------------------------
+Il presente software è programmato in conformità con:
+- Legislatura Italiana: Protezione del Software e Diritto d'Autore.
+- Legislatura Europea: Regolamento UE 2016/679 (GDPR) - Il software garantisce 
+  la sovranità locale del dato (Privacy by Design) agendo esclusivamente 
+  on-premises senza trasferimenti a terze parti.
+- Legislature Globali/Internazionali: Standard di protezione dei dati e 
+  trattati internazionali sulla Proprietà Intellettuale.
+
+4. STANDARD TECNICI DI RIFERIMENTO
+----------------------------------
+L'algoritmo osserva rigorosamente i seguenti standard di qualità e sicurezza:
+- Standard Repubblica Italiana: Linee guida AgID per la gestione dei dati.
+- Standard Unione Europea: Framework ENISA per la cybersecurity.
+- Standard Globali/Internazionali: ISO/IEC 27001 (Gestione della sicurezza delle 
+  informazioni), garantendo Integrità e Disponibilità mediante la 
+  ritenzione ciclica di 3 backup compressi.
+
+5. REGIME DI LICENZA (GNU GPL v3)
+---------------------------------
+Il software è distribuito sotto licenza GNU General Public License v3.0. 
+Questo garantisce all'utente la libertà di utilizzo, studio e modifica, 
+a condizione che ogni distribuzione derivata mantenga la medesima licenza 
+e l'attribuzione originale della proprietà intellettuale a Francesco Piroddi.
+
+6. ESCLUSIONE DI RESPONSABILITÀ (DISCLAIMER)
+--------------------------------------------
+In conformità alle normative internazionali, il software viene fornito 
+"COSÌ COM'È". Il Titolare non risponde di perdite di dati derivanti da 
+malfunzionamenti hardware, corruzione accidentale o configurazioni errate 
+del Task Scheduler effettuate dall'utente finale.
+
+===============================================================================
+FINE DEL DOCUMENTO LEGALE - TRATTO BACKUP LIVE
+===============================================================================
